@@ -1,0 +1,81 @@
+/*admin's logo */
+.adminlogo{
+	
+	position:absolute;
+	top:70%;
+	
+}
+
+
+
+
+
+
+/*Buttons div*/
+
+.works{
+	position:absolute;
+	width:200%;
+	height:100%;
+	top:100%;
+	background-color: #743935;
+    
+
+	
+	
+}
+
+
+/*Buttons */
+.btn{
+	
+	
+	
+	 width: 300px; 
+	 height:150px;
+	 right:200%;
+     background-color:#180202;
+     border: 9px solid #dcdada;
+     color: white;
+     padding: 5px;
+     font-size: 32px;
+     font-weight:bold;
+     cursor: pointer;
+     margin: 12px 0;
+     box-shadow: 0 15px 25px rgba(0,0,0,.6);
+	
+	
+	
+	
+}
+
+
+/*footer*/
+.footer{
+  height:20%;
+  width:100%;
+  position:absolute;
+  right:0%;
+  top:30%;
+  
+}
+.footimage{
+  
+  height:85%;
+  width:100%;
+  position:absolute;
+  right:0%;
+  top:10%;
+  
+}
+.foot{
+  position:absolute;
+  top:200%;
+  height:10%;
+  width:100%;
+  right:0%;
+  
+}
+.footcolor{
+  color:white;
+}

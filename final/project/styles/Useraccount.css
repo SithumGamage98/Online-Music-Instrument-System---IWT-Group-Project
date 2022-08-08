@@ -1,0 +1,125 @@
+
+
+body{
+	background-color: #1c2833;
+	background-image: url("../images/purple-music.jpg");
+}
+
+*:focus{
+	outline: none;
+}
+
+.box {
+    position: absolute;
+    top: 165%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    height:600px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+}
+
+.profile img{
+	box-sizing: border-box;
+	width:149px;
+	height: 149px;
+	border-radius: 50;
+	margin:0;
+	border:5px solid #0082e6;
+	padding: 3px;
+	background-color: white;
+}
+input[type="text"] ,
+input[type="email"]{
+	display:block;
+	box-sizing: border-box;
+	background:none;
+	color:#3498db;
+	margin-bottom: 30px;
+	padding: 4px;
+	width:220px;
+	height: 32px;
+	border:none;
+	border-bottom: 1px solid #0082e6;
+	font-family:'Roboto' , sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	transition: 0.2s ease;
+}
+input[type="text"]{
+	margin-top: 25px;
+}
+input[type="text"] :focus,
+input[type="email"]focus{
+	border-bottom: 2px solid #3498db;
+	border-bottom-right-radius: 20px;
+	color:#3498db;
+	transition : 0.2 ease;
+}
+button:hover{
+	transform: scale(1.1);
+}
+input[type="file"]{
+	display: none;
+}
+label{
+	box-sizing: border-box;
+	font-size: 20px;
+	background-color: black;
+	color:white;
+	border:1px solid #3498db;
+	padding: 2px 15px;
+	border-radius: 5px;
+	transition: all 0.3s;
+}
+label:hover{
+	background-color: #3498db;
+	color:black;
+}
+.box:hover{
+	 width: 360px;
+     height:600px;
+	 border-radius: 5px;
+	
+}
+.box:hover img{
+	width:100px;
+	height:100px;
+	margin:20px 31%;
+}
+
+
+
+/*footer*/
+.footer{
+  height:20%;
+  width:100%;
+  position:absolute;
+  right:0%;
+  top:30%;
+  
+}
+.footimage{
+  
+  height:85%;
+  width:100%;
+  position:absolute;
+  right:0%;
+  top:10%;
+  
+}
+.foot{
+  position:absolute;
+  top:210%;
+  height:30%;
+  width:100%;
+  right:0%;
+  
+}
+.footcolor{
+  color:white;
+}

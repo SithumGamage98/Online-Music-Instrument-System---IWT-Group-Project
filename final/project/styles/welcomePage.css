@@ -1,0 +1,48 @@
+/*IT20661656-Sandeepani M.L.*/
+
+containe {
+	position:relative;
+  
+}
+
+/*css for backgrount video*/
+.containe video {
+
+    position:auto;
+	  z-index:0;
+}
+
+
+/*css for content*/
+.conten{
+  font-family: "Lucida Console", Times, serif;
+  text-align: center;
+  position:absolute;
+  top:20px;
+  left:20px;
+  z-index:1;
+  bottom: 700;
+  background: rgba(0, 0, 0, 0.5s);
+  color: #f1f1f1;
+  width: 100;
+  padding: 20px;
+}
+
+/*css for button*/
+.button1 {
+  text-align: center;
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 18px;
+  text-align: center;
+  text-decoration: none;`
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#size1{
+	font-size : 70px;
+}

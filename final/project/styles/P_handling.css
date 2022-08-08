@@ -1,0 +1,162 @@
+/*IT20661656-Sandeepani M.L.*/
+
+/*css for table*/
+table{
+	position: absolute;
+	top: 140%;
+	left: 15%;
+	width:70%;
+	margin: 30px auto;
+	border-collapse: collapse;
+	text-align: left;
+	border-spacing: 0 15px;
+}
+
+tr{
+	border-bottom: 1px solid #cbcbcb;
+
+}
+
+th,td{
+	border: none;
+	height: 60px;
+	padding: 2px;
+}
+
+tr:hover{
+	background: #F5F5F5;
+
+}
+
+
+/*css for product adding form*/
+form{
+	position: absolute;
+	
+	left:23%;
+	top: 130%;
+	width: 45%;
+	margin: 50px;
+	padding: 20px;
+	text-align: left;
+	border:1px solid #bbbbbb;
+	border-radius: 5px;
+}
+
+.input-group{
+	margin: 10px 0px 10px 0px;
+
+}
+
+.input-group label{
+	display: block;
+	text-align: left;
+	margin: 3px;
+
+}
+
+.input-group input{
+	height:30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+
+/*button css part*/
+.pbtn{
+	margin-right: 10px;
+	width:100px ;
+	height: 50px;
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EAB;
+	border: none;
+	border-radius: 5px;
+}
+
+.pbtn1 {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #F25278;
+	border: none;
+	border-radius: 5px;
+}
+
+.pbtn1 a{
+	color: white;
+	text-decoration: none;
+}
+
+.pbtn2 {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #281E50;
+	border: none;
+	border-radius: 5px;
+}
+
+.pbtn2 a{
+	color: white;
+	text-decoration: none;
+}
+
+.pbtn3 {
+	position: absolute;
+	top: 133%;
+	right: 15%;
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EAB;
+	border: none;
+	border-radius: 5px;
+}
+
+.pbtn3 a{
+	color: white;
+	text-decoration: none;
+}
+
+
+/*css for head title*/
+.titleText{
+	position: absolute;
+	top: 125%;
+	left: 40%;
+}
+
+
+/*footer*/
+.footer{
+    height:20%;
+    width:100%;
+    position:absolute;
+    right:0%;
+    top:30%;
+    
+}
+.footimage{
+    
+    height:85%;
+    width:100%;
+    position:absolute;
+    right:0%;
+    top:10%;
+    
+}
+.foot{
+    position:absolute;
+    top:280%;
+    height:30%;
+    width:100%;
+    right:0%;
+    
+}
+.footcolor{
+    color:white;
+}

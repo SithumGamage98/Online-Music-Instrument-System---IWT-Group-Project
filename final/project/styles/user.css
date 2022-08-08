@@ -1,0 +1,58 @@
+.bttn3{
+	
+	position:absolute;
+	width: 30%;
+	height:15%;
+	top:75%;
+    background-color:black;
+	
+	
+	
+	
+	
+}
+
+
+.h2{
+	
+	color:gerrn;
+	
+	
+}
+
+
+
+
+
+
+
+
+/*footer*/
+.footer{
+    height:20%;
+    width:100%;
+    position:absolute;
+    right:0%;
+    top:30%;
+    
+}
+.footimage{
+    
+    height:85%;
+    width:100%;
+    position:absolute;
+    right:0%;
+    top:10%;
+    
+}
+.foot{
+    position:absolute;
+    top:100%;
+    height:30%;
+    width:100%;
+    right:0%;
+    
+}
+.footcolor{
+    color:white;
+}

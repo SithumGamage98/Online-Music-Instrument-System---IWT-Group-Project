@@ -1,0 +1,99 @@
+
+/*Form style */
+.fom{
+	
+	width:100%;
+	height:200%;
+	top:75%;
+	position:absolute;
+	
+ 
+	
+	
+	
+	
+}
+
+/*row styles */
+
+.inm{
+	width:100%;
+	padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+	
+	
+	
+	
+	
+}
+
+
+/*Style for Submit button */
+.btn{
+	
+	
+	width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #985853;
+	
+	
+	
+	
+	
+}
+
+
+.bttn4{
+	 position:absolute;
+	width: 30%;
+	top:140%;
+    background-color:black;
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+/*footer*/
+.footer{
+  height:10%;
+  width:100%;
+  position:absolute;
+  right:0%;
+  top:30%;
+  
+}
+.footimage{
+  
+  height:150%;
+  width:100%;
+  position:absolute;
+  right:0%;
+  top:10%;
+  
+}
+.foot{
+  position:absolute;
+  top:180%;
+  height:10%;
+  width:100%;
+  right:0%;
+  
+}
+.footcolor{
+  color:white;
+}

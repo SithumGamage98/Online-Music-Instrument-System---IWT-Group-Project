@@ -1,0 +1,232 @@
+/*product category bar*/
+
+.box1{
+    position: absolute;
+    top: 193.5%;
+    left: 8.5%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:1050px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 0;
+
+}
+
+.offer1{
+    position: absolute;
+    color: blue;
+    top: 125%;
+    left:20%;
+}
+.offer2{
+    position: absolute;
+    color: blue;
+    top: 193%;
+    left:20%;
+}
+
+.box1 a{
+
+    text-decoration:none
+}
+
+.box1 a:hover{
+  background-color:black;
+}
+
+/*product*/
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: red;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+
+
+/*aboutus box*/
+
+
+
+.box2 {
+    position: absolute;
+    top: 163%;
+    left:26%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:400px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+}
+
+.box21 {
+    position: absolute;
+    top: 163%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:400px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+}
+
+.box22 {
+    position: absolute;
+    top: 163%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:400px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+}
+
+.box23 {
+    position: absolute;
+    top: 163%;
+    left: 86%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:400px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.box4 {
+    position: absolute;
+    top: 230%;
+    left: 26%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:400px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+
+}
+
+.box41 {
+    position: absolute;
+    top: 230%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:400px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+
+}
+
+.box42 {
+    position: absolute;
+    top: 230%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:400px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+
+
+}
+
+.box43 {
+    position: absolute;
+    top: 230%;
+    left: 86%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height:400px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+}
+
+
+/*footer*/
+.footer{
+    height:20%;
+    width:100%;
+    position:absolute;
+    right:0%;
+    top:30%;
+    
+}
+.footimage{
+    
+    height:85%;
+    width:100%;
+    position:absolute;
+    right:0%;
+    top:10%;
+    
+}
+.foot{
+    position:absolute;
+    top:262%;
+    height:30%;
+    width:100%;
+    right:0%;
+    
+}
+.footcolor{
+    color:white;
+}
+
+
+
